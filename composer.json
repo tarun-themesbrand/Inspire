@@ -2,7 +2,7 @@
     "name": "tarun_tb/inspire",
     "description": "This is a test project",
     "type": "project",
-    "version": "0.0.0.1",
+    "version": "0.0.1",
     "license": "MIT",
     "autoload": {
         "psr-4": {
