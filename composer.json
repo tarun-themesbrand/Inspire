@@ -2,6 +2,7 @@
     "name": "tarun_tb/inspire",
     "description": "This is a test project",
     "type": "project",
+    "version": "0.0.0.1",
     "autoload": {
         "psr-4": {
             "Tarun\\Inspire\\": "src/"
