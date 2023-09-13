@@ -1,0 +1,19 @@
+{
+    "name": "tarun/inspire",
+    "description": "This is a test project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Tarun\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tarun Korat",
+            "email": "tarun@themesbrand.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}
